@@ -1,0 +1,52 @@
+-------------Cristian---------
+6 EL BIG BANG
+7 Tercera conferencia AGUJEROS NEGROS
+8 Cuarta conferencia LOS AGUJEROS NEGROS NO SON TAN NEGROS
+9 LA SEGUNDA LEY DE LA TERMODINÁMICA
+10 RADIACIÓN DE AGUJERO NEGRO
+
+
+
+---6 EL BIG BANG
+
+1) ¿Qué predice la teoría de la relatividad general sobre el comienzo del universo, según las soluciones de Friedmann?
+2) ¿Qué demostraron Penrose y Hawking sobre las singularidades y el inicio del universo en su trabajo conjunto?
+
+REPUESTAS
+
+1) La teoría de la relatividad general, según las soluciones de Friedmann, predice que el universo tuvo un punto singular en el pasado, conocido como el big bang,
+donde la densidad del universo y la curvatura del espacio-tiempo fueron infinitas.
+2) Penrose y Hawking demostraron que, según la teoría de la relatividad general, el universo debió de tener un comienzo en una singularidad de big bang,
+si contiene suficiente materia y se está expandiendo lo suficientemente rápido para evitar un colapso.
+
+---7 Tercera conferencia AGUJEROS NEGROS
+1) ¿Qué es el principio de exclusión de Pauli?
+2) ¿Qué calculó Chandrasekhar durante su viaje a Inglaterra en 1928?
+
+RESPUESTAS
+1) Dice que dos partículas materiales no pueden tener la misma posición y la misma velocidad.
+2) Calculó qué tamaño podría tener una estrella y seguir manteniéndose contra su propia gravedad una vez que hubiese consumido todo su combustible.
+
+---8 Cuarta conferencia LOS AGUJEROS NEGROS NO SON TAN NEGROS
+1) ¿Qué inspiró a Hawking a pensar en los agujeros negros una noche de noviembre de 1970?
+2) ¿Cómo comparó Hawking el horizonte de sucesos de un agujero negro con el borde de una sombra?
+
+REPUESTAS
+1) El nacimiento de su hija Lucy.
+2) Lo comparó con el borde de una sombra, donde los rayos de luz no se aproximan entre sí.
+
+---9 LA SEGUNDA LEY DE LA TERMODINÁMICA
+1) ¿Qué fenómeno físico se relaciona con el comportamiento no decreciente del área de un agujero negro?
+2) ¿Qué sugirió Jacob Bekenstein sobre el área del horizonte de sucesos de un agujero negro?
+
+RESPUESTAS
+1)  La entropía, que mide el grado de desorden de un sistema.
+2) Sugirió que el área del horizonte de sucesos era una medida de la entropía del agujero negro.
+
+---10 RADIACION DE AGUJERO NEGRO
+1) ¿Quiénes fueron los dos expertos soviéticos con los que Stephen Hawking discutió sobre agujeros negros en septiembre de 1973?
+2) ¿Qué efecto tienen las fluctuaciones cuánticas en el espacio vacío según el principio de incertidumbre?
+
+REPUESTAS
+1) Yakov Zeldovich y Alexander Starobinski.
+2) Generan pares de partículas virtuales que aparecen y se aniquilan mutuamente.
