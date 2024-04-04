@@ -18,7 +18,7 @@ var data = [
   {
     "label": "Pregunta 4",
     "value": 4,
-    "question": "¿Qué se debe hacer en el cuato paso del proceso de creación?"
+    "question": "¿Qué se debe hacer en el cuarto paso del proceso de creación?"
   },
   {
     "label": "Pregunta 5",
